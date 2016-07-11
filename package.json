@@ -1,0 +1,14 @@
+{
+  "name": "rushblast",
+  "version": "0.0.0",
+  "description": "A space game.",
+  "main": "server.js",
+  "repository": "",
+  "author": "Buck Supergoose <andrewsargeant@gmail.com>",
+  "dependencies": {
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14",
+    "node-uuid": "0.2.10",
+    "pixi.js": "3.0.11"
+  }
+}
