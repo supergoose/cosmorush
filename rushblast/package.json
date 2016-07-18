@@ -1,8 +1,8 @@
 {
-  "name": "rushblast-app",
+  "name": "rushblast",
   "version": "0.0.0",
-  "description": "A space game (server).",
-  "main": "server.js",
+  "description": "A space game.",
+  "main": "game.core.js",
   "repository": "",
   "author": "Buck Supergoose <andrewsargeant@gmail.com>",
   "dependencies": {
